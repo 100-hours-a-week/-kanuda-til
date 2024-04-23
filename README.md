@@ -1,24 +1,6 @@
-# til-template
+# til Today I Learn
 
-## 오늘 내가 배운 것들(Today I Learned)
+## 오늘 내가 배운 것들(Today I Learned) in KCS
 
-### [4월 첫째주, 1주차] : html, css
+### 매일 조금씩 공부하고 또 기록하자
 
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
-
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
-
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
-
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
-
-
-### [n월 n째주, n주차] : 간략 주제 작성 
-
-yy.mm.dd 세부 주제 4 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 3 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
-
-yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
